@@ -1,0 +1,1 @@
+When first reduced to half their force (either half health for a single monster or half their number for a group), most intelligent monsters will make a Hard WIS check or flee. Roll once for the group. For a mixed group, use the leader's modifier. This check is made at the start of the Monster phase. It is a fear effect.

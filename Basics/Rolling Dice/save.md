@@ -1,0 +1,1 @@
+A **save** is an ability [[check|check]] triggered by another’s action or by an ongoing effect, rather than as part of a proactive action of your own.  Succeeding on a save reduces or negates a negative consequence, such as getting burned by a burst of flame, contracting a disease, falling into a pit trap, or being charmed by a mischievous faerie.
