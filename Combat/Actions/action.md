@@ -29,7 +29,8 @@ Sometimes you can take a **reaction** when it is not your turn.
 * [[Move]] - Change your location or position (the most commonly used minor action)
 * [[Aim]] - Prepare a more effective ranged attack
 * [[Load]] - Reload a Loading weapon
-* [[Maneuver]] - Prepare a more effective ranged attack
+* [[Maneuver]] - Prepare a more effective melee attack
+* [[Manipulate]] - Draw, sheathe, grab, push, or otherwise quickly interact with an object
 * [[Recover]] - Clear your head or regain your balance
 * [[Search]] - Glance around the battlefield for hidden things
 

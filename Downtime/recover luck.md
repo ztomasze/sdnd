@@ -1,6 +1,6 @@
 > A [[downtime]] activity
 
-One day to recover up to your maximum of 3 [[luck]] points.
+Spend one day to recover up to your maximum of 3 [[luck]] points.
 
 To this, you might use the day to:
 

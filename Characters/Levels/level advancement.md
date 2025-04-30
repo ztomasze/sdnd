@@ -13,7 +13,7 @@ You can typically only do this as part of a downtime event.
 
 Each time you level up:  
 
-- **HP:** Your hp will increase (min: 1), as described above under [[hit points]].
+- **HP:** Your hp will increase, as described above under [[hit points]].
 - **Benefit:** You gain the benefit listed below for your new level.  This is either a talent of your choice, or two points that you can use to increase your ability scores (either +2 to one score or +1 to two different scores). 
 - **Mastery:** As described previously, your [[mastery]] improves with each even level.
 

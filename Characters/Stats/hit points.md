@@ -17,21 +17,34 @@ Your [[class]] will determine the size of your **hit die (HD)**. The hit die for
 At level 1, you start with a number of hit points equal to the max value of your HD. Add CON and STR to this, but your minimum total is the max value of your HD.
 
 > **Example**  
-> A new [[wizard]] has a d4 HD, -2 STR, and +0 CON. While it initially looks like she would start with 4 - 2 + 0 = 2 hp, she will start with 4 hp, as that is the minimum for starting character with d4 HD.
+> A new [[wizard]] has a d4 HD, -2 STR, and +0 CON. While it initially looks like she would start with 4 - 2 + 0 = 2 hp, she will start with 4 hp, as that is the minimum for a starting character with d4 HD.
 
 > **Example**  
 > A new [[fighter]] has d8 HD, +2 STR, +1 CON. He starts with 11 hp.
 
-You can permanently lose hp, so it is possible to have fewer hit points that when you started.
+You can permanently lose hp, so it is possible to have fewer hit points than when you started.
 
 ### leveling up
 
-Each time you level up, you gain another HD, so your number of HD will equal your level.  All of your HD are of the same size.
+When you level up, determine your new HD pool from the following table.
 
-When you level up, roll all your HD and then add your CON + STR modifiers (once each):
+| Level  | d4     | d6     | d8     | d10     | d12     |
+| ------ | ------ | ------ | ------ | ------- | ------- |
+| **1**  | 4      | 6      | 8      | 10      | 12      |
+| **2**  | 2d4    | 2d6    | 2d8    | 2d10    | 2d12    |
+| **3**  | 3d4    | 3d6    | 3d8    | 3d10    | 3d12    |
+| **4**  | 4d4    | 4d6    | 4d8    | 4d10    | 4d12    |
+| **5**  | 5d4    | 5d6    | 5d8    | 5d10    | 5d12    |
+| **6**  | 5d4+2  | 5d6+2  | 5d8+2  | 5d10+2  | 5d12+2  |
+| **7**  | 5d4+4  | 5d6+4  | 5d8+4  | 5d10+4  | 5d12+4  |
+| **8**  | 5d4+6  | 5d6+6  | 5d8+6  | 5d10+6  | 5d12+6  |
+| **9**  | 5d4+8  | 5d6+8  | 5d8+8  | 5d10+8  | 5d12+8  |
+| **10** | 5d4+10 | 5d6+10 | 5d8+10 | 5d10+10 | 5d12+10 |
 
-* Replace your hit point maximum with the value rolled if it is greater;
-* Otherwise, add 1 to your current HP max.
+Roll your new HD pool and then add your CON + STR modifiers (once each):
+
+* Replace your hit point maximum with the value rolled if it is greater.
+* Otherwise, add 2 to your current HP max.
 
 ### recovery
 

@@ -1,6 +1,6 @@
 > A [[action|minor action]]
 
-You move up to a near [[distance]], with some caveats.
+Travel up to a near [[distance]], with some caveats.
 
 ### speed
 
@@ -32,10 +32,6 @@ Moving through an occupied space is treated as difficult terrain.
 ### climbing and swimming
 
 This typically means moving at half speed, as per difficult terrain. If the climb is particularly treacherous or the water particularly rough, a STR or DEX check may be necessary to make any progress at all. On a CF, you either fall or start to drown.
-
-### object interaction
-
-During your move, you can make one quick object interaction, such as push open an unlocked door, grab hold of a fallen ally, snatch a torch out of a sconce, or sheathe a sword. The GM will tell you if the interaction is complicated enough to require a full [[Use]] action. 
 
 ### uninterrupted movement
 

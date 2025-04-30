@@ -24,7 +24,7 @@ Recommended reading order:
 ### Characters
 ##### Stats
 * [[abilities]]
-* [[hit points]]
+* [[Characters/Stats/hit points]]
 * [[mastery]]
 * [[luck]]
 * [[proficiency]]
@@ -59,7 +59,7 @@ Recommended reading order:
 
 ##### Combat Structure
 * [[combat round]]
-* [[initiative]]
+* [[Combat/initiative]]
 * [[surprise]]
 ##### Actions
 * [[action]] - Including the many listed actions

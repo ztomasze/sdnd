@@ -56,6 +56,7 @@ Some armor requires more [[equipment slots]] to wear or carry.
 | **heavy** (kite, metal)   | Heavy  | +2       | --      | 1     | 30        | Yes    |
 ### special
 
+* **shield bash:** You can use a shield to make a melee attack that deals d3 damage.
 * **small shield:** When you are hit by a melee attack, you can choose to destroy (sunder) this shield to negate all damage from the attack.
 
 ### exotic

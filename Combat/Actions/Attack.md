@@ -7,9 +7,9 @@ aliases:
 
 Make a weapon attack. 
 
-### free draw
+### in hand
 
-You can draw the weapon used or any (non-Loading) ammo needed as part of the attack (assuming it is handy and not buried in your pack).
+You need the requisite weapon in hand, so you may need to [[Manipulate]] to draw it first. You can freely draw any ammo needed from a quiver.
 
 ### target's location
 

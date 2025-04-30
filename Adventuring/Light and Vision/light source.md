@@ -6,4 +6,6 @@ A **Light source** produces an [[areas|area]] of [[light|bright light]] centered
 
 Examples include a candle (adjacent-radius area), torch (near-radius area), or lantern (midrange-radius area).
 
-Unless otherwise noted, a light source lasts for one [[real hour]].  If a light source is placed on the ground, it's illumination area is reduced by one step.  For example, a dropped torch only illuminates a close-radius area.
+Unless otherwise noted, a light source lasts for one [[real hour]].  
+
+If a light source is placed on the ground, its illumination area is reduced by one step.  For example, a dropped torch only illuminates a close-radius area.

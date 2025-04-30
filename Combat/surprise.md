@@ -5,7 +5,7 @@ aliases:
 
 The GM determines whether one side has surprised the other. 
 
-First, surprise changes the [[initiative]] order for the first [[combat round]]:
+First, surprise changes the [[Combat/initiative]] order for the first [[combat round]]:
 
 * If **both** or **neither** side is surprised, the normal initiative rules are used.
 * If **characters surprise monsters**, all characters automatically succeed their initiative rolls.

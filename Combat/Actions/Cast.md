@@ -53,7 +53,6 @@ The DC to cast a spell is 10 + the spell’s tier:
 
 Some spells have a modifier that changes how they are cast:
 
-* [[reliable]]
 * [[rote]]
 
 ### duration
