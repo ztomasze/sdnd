@@ -3,4 +3,4 @@
 **Languages:** Common, one other of your choice  
 **Weapons:** crossbow  
 
-* **Talented:** Gain one additional talent at level 1.
+* **Adaptable:** Gain one additional talent at level 1.

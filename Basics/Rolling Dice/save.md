@@ -10,4 +10,4 @@ When rolling a save, roll an ability check of the corresponding ability:
 
 * The DC is always Hard (15)
 * A natural 20 always succeeds, and a natural 1 always fails.
-* The Improved Save [[talents|talent]] can let you add an additional ability modifier to one of your saves.
+* The Improved Save [[feats|feat]] can let you add an additional ability modifier to one of your saves.

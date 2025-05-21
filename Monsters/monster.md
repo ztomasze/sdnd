@@ -20,7 +20,7 @@ SD&D monsters don't follow the same rules as player characters.  For example, th
 
 ##### HD
 HD
-* 0 HD = 1/2 HD. 
+* 0 HD = 1/2 HD or set hp.  **+Minions!**
 * Roll to determine hp on first damage.
 * Attacks gain +HD to hit up to +10, then +1 for every 2 HD after that (+11 at 12, +12 at 14, and so on)
 * 

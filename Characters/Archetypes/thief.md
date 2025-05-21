@@ -4,12 +4,11 @@
 | --- | --- | --- | --- | --- | --- |
 | 10  | 15  | 8   | 14  | 10  | 12  |
 
-**Class:** [[specialist]]
+**Class:** [[expert]]
 * Skills: Acrobatics, Athletics, Stealth, Thievery
-* Specialty: [[sneak attack]]
-* Save Mastery: DEX, STR
+* Talent: [[sneak attack]]
 
 **Talents**
-1. Second Specialty: Skilled (Insight, Perception, Performance)
+1. Extra Talent: Skilled (Insight, Perception, Performance)
 2. Reflexes
 3. Magical Dabbler (INT)

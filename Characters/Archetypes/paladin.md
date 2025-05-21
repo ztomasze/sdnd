@@ -9,7 +9,7 @@
 * Skill: Medicine
 * Spellcasting: CHA    
 
-**Talents**
+**Feats**
 1. Improved HD
 2. Improved Combat
 3. Improved Combat

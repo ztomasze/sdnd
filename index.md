@@ -35,11 +35,11 @@ Recommended reading order:
 * [[druid]]
 * [[fighter]]
 * [[mage]]
-* [[specialist]]
+* [[expert]]
 ##### Features
 * [[skills]]
-* [[talents]]
-* [[specialty|specialties]]
+* [[feats]]
+* [[talent|talents]]
 * [[background|backgrounds]]
 * [[language|languages]]
 ##### Equipment

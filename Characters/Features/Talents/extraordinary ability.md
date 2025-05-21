@@ -1,4 +1,4 @@
-This [[specialty]] grants you three amazing but non-magical capabilities.
+This [[talent]] grants you three amazing but non-magical capabilities.
 
 To represent your elite training, choose four spells of tier 0 or 1 to serve as different stunts that you can perform. One of these spells can be of tier 2 with some kind of limitation. The spell effects should be limited or reflavored to be subtle enough to have an extraordinary or supernatural explanation (subject to GM approval), and all of them may require some other limitation to activate.
 

@@ -5,13 +5,13 @@
 | --- | --- | --- | --- | --- | --- |
 | 12  | 15  | 10  | 8   | 14  | 10  |
 
-**Class:** [[specialist]]
+**Class:** [[expert]]
 * Skills: Athletics, Stealth, Survival, (Weapon Training: Longbow OR Armor Training)
-* Specialty: [[herbalism]]
+* Talent: [[herbalism]]
 
-**Talents**
+**Feats**
 1. Improved HD
-2. Second Specialty: [[sneak attack]] OR [[half-caster]] (Primal)
+2. Extra Talent: [[sneak attack]] OR [[half-caster]] (Primal)
 3. Skill: Perception
 4. Improved Combat
 

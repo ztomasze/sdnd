@@ -3,5 +3,5 @@
 **Languages:** Common, Elvish  
 **Weapons:** shortbow  
 
-- **Talented:** Gain an additional talent at level 1.
+- **Adaptable:** Gain an additional feat at level 1.
 - **Elf blood:** You count as an elf for magical items or effects that only affect elves.

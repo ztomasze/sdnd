@@ -8,7 +8,7 @@ aliases:
 	1. Select any [[skills]] gained
 3. Choose an [[ancestry]] and record its features
 4. Roll or choose a [[background]]
-5. Select your [[talents]] for your class (if any) and level 1
+5. Select your [[feats]] for your class (if any) and level 1
 	1. In addition, all new character gain the Save Mastery feat for free.
 6. Select your [[language|languages]] 
 7. Select your [[starting gear]]

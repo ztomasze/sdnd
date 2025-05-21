@@ -1,4 +1,4 @@
-This [[specialty]] grants you a limited ability to cast spells.
+This [[talent]] grants you a limited ability to cast spells.
 
 You become a [[spellcasting|spellcaster]]. 
 

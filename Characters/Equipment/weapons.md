@@ -2,7 +2,7 @@
 aliases:
   - weapon
 ---
-Your [[ancestry]], [[class]], and [[talents]] determine the weapons you can use. 
+Your [[ancestry]], [[class]], and [[feats]] determine the weapons you can use. 
 
 * Weapons are necessary to make an [[attack]].
 * If you use a weapon you are not [[proficiency|proficient]] with, your attacks with it are made at -4.
@@ -25,39 +25,39 @@ Your [[ancestry]], [[class]], and [[talents]] determine the weapons you can use.
 
 ### proficiency by class
 
-Abbreviations used are: Cleric (C), Druid (D), Fighter (F), Mage (M, or subclasses S, Ta, Te, W), Specialist (Sp).
+Abbreviations used are: Cleric (C), Druid (D), Expert (E), Fighter (F), Mage (M, or subclasses S, Ta, Te, W).
 
 ### weapons
 
-| Weapon                   | Damage | Range | Properties         | C   | D   | F   | M    | Sp  | Cost  |
-| ------------------------ | ------ | ----- | ------------------ | --- | --- | --- | ---- | --- | ----- |
-| *Melee & thrown weapons* |        |       |                    |     |     |     |      |     |       |
-| **Unarmed**              | d2     | -     |                    | C   | D   | F   | M    | Sp  | -     |
-| **Whip**                 | d2     | -     | Finesse, Reach     |     |     | F   |      | Sp  | 1 gp  |
-| **Stone**                | d3     | N     | Thrown             | C   | D   | F   | M    | Sp  | -     |
-| **Torch**                | d3/d4  | N     | Special            | C   | D   | F   | M    | Sp  | 1 sp  |
-| **Dagger**               | d4     | N     | Finesse, Thrown    | C   | D   | F   | M    | Sp  | 1 gp  |
-| **Club**                 | d4/d6  | -     | Thrown, V          | C   | D   | F   | M    | Sp  | 5 cp  |
-| **Spear**                | d4/d8  | N     | Thrown, V          |     | D   | F   | S,Te |     | 5 sp  |
-| **Staff**                | d4/d8  | -     | V                  | C   | D   | F   | M    | Sp  | 5 sp  |
-| **Hammer**               | d6     | N     | Thrown             | C   |     | F   | Te   | Sp  | 1 gp  |
-| **Handaxe**              | d6     | N     | Thrown             |     |     | F   |      | Sp  | 2 gp  |
-| **Javelin**              | d6     | M     | Thrown             |     | D   | F   |      |     | 5 sp  |
-| **Shortsword**           | d6     | -     | Finesse            |     | D   | F   | Te   | Sp  | 7 gp  |
-| **Mace**                 | d6/d8  | -     | V                  | C   |     | F   | Te   |     | 5 gp  |
-| **Longsword**            | d6/d8  | -     | V                  | C   |     | F   | Te   | Sp  | 9 gp  |
-| **Battleaxe**            | d6/d10 | -     | V                  |     |     | F   |      |     | 10 gp |
-| **Bastard sword**        | d6/d10 | -     | V                  |     |     | F   |      |     | 10 gp |
-| **Warhammer**            | d6/d10 | -     | V                  | C   |     | F   |      |     | 10 gp |
-| **Polearm**              | d10    | -     | 2H, Reach, 2 slots |     |     | F   |      |     | 10 gp |
-| **Greataxe**             | d12    | -     | 2H, 2 slots        |     |     | F   |      |     | 12 gp |
-| **Greatsword**           | d12    | -     | 2H, 2 slots        |     |     | F   |      |     | 12 gp |
-| **Maul**                 | d12    | -     | 2H, 2 slots        |     |     | F   |      |     | 8 gp  |
-| *Ranged weapons*         |        |       |                    |     |     |     |      |     |       |
-| **Sling**                | d4     | F     | Loading            |     | D   | F   | Te   | Sp  | 5 sp  |
-| **Shortbow**             | d6     | F     | 2H                 |     | D   | F   |      |     | 6 gp  |
-| **Crossbow**             | d6     | F     | 2H, Loading        | C   |     | F   | Te   | Sp  | 8 gp  |
-| **Longbow**              | d8     | F     | 2H, 2 slots        |     |     | F   |      |     | 8 gp  |
+| Weapon                   | Damage | Range | Properties         | C   | D   | E   | F   | M    | Cost  |
+| ------------------------ | ------ | ----- | ------------------ | --- | --- | --- | --- | ---- | ----- |
+| *Melee & thrown weapons* |        |       |                    |     |     |     |     |      |       |
+| **Unarmed**              | d2     | -     |                    | C   | D   | E   | F   | M    | -     |
+| **Whip**                 | d2     | -     | Finesse, Reach     |     |     | E   | F   |      | 1 gp  |
+| **Stone**                | d3     | N     | Thrown             | C   | D   | E   | F   | M    | -     |
+| **Torch**                | d3/d4  | N     | Special            | C   | D   | E   | F   | M    | 1 sp  |
+| **Dagger**               | d4     | N     | Finesse, Thrown    | C   | D   | E   | F   | M    | 1 gp  |
+| **Club**                 | d4/d6  | -     | Thrown, V          | C   | D   | E   | F   | M    | 5 cp  |
+| **Spear**                | d4/d8  | N     | Thrown, V          |     | D   |     | F   | S,Te | 5 sp  |
+| **Staff**                | d4/d8  | -     | V                  | C   | D   | E   | F   | M    | 5 sp  |
+| **Hammer**               | d6     | N     | Thrown             | C   |     | E   | F   | Te   | 1 gp  |
+| **Handaxe**              | d6     | N     | Thrown             |     |     | E   | F   |      | 2 gp  |
+| **Javelin**              | d6     | M     | Thrown             |     | D   |     | F   |      | 5 sp  |
+| **Shortsword**           | d6     | -     | Finesse            |     | D   | E   | F   | Te   | 7 gp  |
+| **Mace**                 | d6/d8  | -     | V                  | C   |     |     | F   | Te   | 5 gp  |
+| **Longsword**            | d6/d8  | -     | V                  | C   |     | E   | F   | Te   | 9 gp  |
+| **Battleaxe**            | d6/d10 | -     | V                  |     |     |     | F   |      | 10 gp |
+| **Bastard sword**        | d6/d10 | -     | V                  |     |     |     | F   |      | 10 gp |
+| **Warhammer**            | d6/d10 | -     | V                  | C   |     |     | F   |      | 10 gp |
+| **Polearm**              | d10    | -     | 2H, Reach, 2 slots |     |     |     | F   |      | 10 gp |
+| **Greataxe**             | d12    | -     | 2H, 2 slots        |     |     |     | F   |      | 12 gp |
+| **Greatsword**           | d12    | -     | 2H, 2 slots        |     |     |     | F   |      | 12 gp |
+| **Maul**                 | d12    | -     | 2H, 2 slots        |     |     |     | F   |      | 8 gp  |
+| *Ranged weapons*         |        |       |                    |     |     |     |     |      |       |
+| **Sling**                | d4     | F     | Loading            |     | D   | E   | F   | Te   | 5 sp  |
+| **Shortbow**             | d6     | F     | 2H                 |     | D   |     | F   |      | 6 gp  |
+| **Crossbow**             | d6     | F     | 2H, Loading        | C   |     | E   | F   | Te   | 8 gp  |
+| **Longbow**              | d8     | F     | 2H, 2 slots        |     |     |     | F   |      | 8 gp  |
 
 ### special
 

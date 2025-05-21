@@ -1,4 +1,4 @@
-This [[specialty]] grants you the ability to prepare herbal concoctions.
+This [[talent]] grants you the ability to prepare herbal concoctions.
 
 As an action, make an INT check to draw forth and use a concoction.
 

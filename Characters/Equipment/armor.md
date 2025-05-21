@@ -2,7 +2,7 @@
 aliases:
   - AC
 ---
-Your [[class]] and [[talents]] determine the types of armor you can use.
+Your [[class]] and [[feats]] determine the types of armor you can use.
 ### type
 
 You need to be proficient with an armor's type to wear it without penalty.  Your armor type proficiency also determines which shields you can use effectively, as noted in the table below. 
@@ -28,7 +28,7 @@ When you add your DEX to your AC, you can't add or subtract more than this value
 > **Example**  
 > You are playing a theurge with light armor proficiency and -2 DEX.  Unarmored, you have AC 8.  Your light armor options are leather AC 9, studded AC 10, or padded AC 13.
 > 
-> Your friend is playing a specialist with light armor proficiency and +3 DEX. Her options are unarmored AC 13, leather AC 14, studded AC 14, or padded AC 13.
+> Your friend is playing an expert with light armor proficiency and +3 DEX. Her options are unarmored AC 13, leather AC 14, studded AC 14, or padded AC 13.
 
 ### slots
 

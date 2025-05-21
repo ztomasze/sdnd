@@ -1,4 +1,4 @@
-This [[specialty]] grants you the ability to prepare alchemical concoctions.
+This [[talent]] grants you the ability to prepare alchemical concoctions.
 
 As an action, make an INT check to draw forth and use a concoction.
 

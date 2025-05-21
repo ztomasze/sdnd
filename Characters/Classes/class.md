@@ -9,6 +9,6 @@ There are 5 base classes:
 * [[druid]]
 * [[fighter]]
 * [[mage]]
-* [[specialist]]
+* [[expert]]
 
-You can then customize those classes through the [[talents]] and any [[specialty]] you select.  See [[archetypes]] for examples of what you can produce in this way.
+You can then customize those classes through the [[feats]] and any [[talent]] you select.  See [[archetypes]] for examples of what you can produce in this way.

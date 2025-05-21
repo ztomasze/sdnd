@@ -1,4 +1,4 @@
-This [[specialty]] grants you the ability to hit foes where it really hurts.
+This [[talent]] grants you the ability to hit foes where it really hurts.
 
 If you hit a creature who is unaware of your attack with a light weapon or ranged weapon, add (mastery)d6 to the damage.  You can also sneak attack a creature who is aware of you if you sacrifice either a boon or a bane that would have applied to the attack roll before rolling.
 
