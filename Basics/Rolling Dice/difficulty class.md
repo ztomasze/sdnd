@@ -4,17 +4,17 @@ aliases:
 ---
 Most impromptu [[check|tasks]] are either Hard or Normal or (occasionally) Easy.  Other difficulty levels are possible, though:
 
-| DC  | Difficulty         | Notes                                                                                                                                                                                           |
-| --- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 30  | Nearly Impossible  | Minimal chance (nat 20) even for the peak of human ability (+4 mod, +6 expertise).  <br>Any higher is impossible (don't roll)                                                                   |
-| 25  | Exceptionally Hard | Impossible without expertise, even with maximum natural ability.  <br>Very Hard for someone at the peak of human ability.                                                                       |
-| 20  | Very Hard          | Minimal chance (nat 20) of someone without training or ability being able to achieve this (+0).  <br>Yet close to Normal difficulty for someone with max ability (+4) and expertise (+4 or +6). |
-| 15  | **Hard**           | 30% chance of success at +0.  <br>Equivalent to Normal DC if you have +4 [[abilities\|ability]] mod or +4 expertise.                                                                            |
-| 13  | Somewhat Hard      |                                                                                                                                                                                                 |
-| 11  | **Normal**         | 50% chance of success at +0.                                                                                                                                                                    |
-| 9   | Somewhat Easy      |                                                                                                                                                                                                 |
-| 7   | **Easy**           | 30% chance of failure at +0.  <br>Equivalent to Normal DC if you have -4 ability mod and no expertise.                                                                                          |
-| 2   | Very Easy          | Minimal chance of failure (nat 1) without modifiers (+0).  <br>Any ability or expertise guarantees success.                                                                                     |
+| DC  | Difficulty        | Notes                                                                                                                                                                                           |
+| --- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 30  | Nearly Impossible | Minimal chance (nat 20) even for the peak of human ability (+4 mod, +6 expertise).  <br>Any higher is impossible (don't roll)                                                                   |
+| 25  | Extremely Hard    | Impossible without expertise, even with maximum natural ability.  <br>Very Hard for someone at the peak of human ability.                                                                       |
+| 20  | Very Hard         | Minimal chance (nat 20) of someone without training or ability being able to achieve this (+0).  <br>Yet close to Normal difficulty for someone with max ability (+4) and expertise (+4 or +6). |
+| 15  | **Hard**          | 30% chance of success at +0.  <br>Equivalent to Normal DC if you have +4 [[abilities\|ability]] mod or +4 expertise.                                                                            |
+| 13  | Somewhat Hard     |                                                                                                                                                                                                 |
+| 11  | **Normal**        | 50% chance of success at +0.                                                                                                                                                                    |
+| 9   | Somewhat Easy     |                                                                                                                                                                                                 |
+| 7   | **Easy**          | 30% chance of failure at +0.  <br>Equivalent to Normal DC if you have -4 ability mod and no expertise.                                                                                          |
+| 2   | Very Easy         | Minimal chance of failure (nat 1) without modifiers (+0).  <br>Any ability or expertise guarantees success.                                                                                     |
 
 Circumstantial modifiers might adjust the typical DC, such as [[Attack#cover|cover]] improving a target's AC.
 

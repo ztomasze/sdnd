@@ -11,6 +11,7 @@ aliases:
   - success
   - failure
   - ability check
+  - checks
 ---
 To succeed at a task, roll d20 + relevant [[abilities|ability]] modifier >= [[difficulty class]] (DC)
 
