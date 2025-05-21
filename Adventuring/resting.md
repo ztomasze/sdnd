@@ -5,7 +5,7 @@ aliases:
   - long rest
   - brief rest
 ---
-A **rest** lets you recover some of your character resources.
+A **rest** lets you recover some of your character's resources.
 
 ### short 
 
@@ -28,7 +28,6 @@ If you successfully complete a long rest:
 - Remove all physical and mental drain
 - Remove 1d4 life drain
 - Spellcasters recover all exhausted (but not inaccessible) spells
-- Recover 1 luck point (to a max of 3)
 - Recover any other uses that return on a short rest or long rest
 
 ### excursions
@@ -36,6 +35,6 @@ If you successfully complete a long rest:
 Sometimes, the party will venture deep into the wilds or some other inhospitable domain. On such excursions, while under the general wear of long travel or the uncertainty of finding the next safe haven, the party's rests become less productive:
 
 - A **one-hour rest** becomes a **brief rest**: Each character heals only 1 hp.
-- A **night's rest** provides only the benefits of a **short rest** (and requires a ration consumed to do so).
+- A **night's rest** provides only the benefits of a **short rest** (and requires a ration to be consumed to do so).
 
 For a night's rest to count as a long rest, it must be taken in a safe haven (as defined by the GM).

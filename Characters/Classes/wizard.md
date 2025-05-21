@@ -12,7 +12,7 @@ A wizard is the classic arcane spellcaster who spends their time pouring over an
 
 **Skill:** Gain Languages OR Lore.
 
-**Spellcasting:** You cast prepared Arcane spells using INT. See [[spellcasting]] for more.
+**Spellcasting:** You cast prepared Arcane spells using INT. See [[magic]] for more.
 
 **Special: Spellbook.** You prepare spells from those in your spellbook, which does not take up an equipment slot for you. You start with 6 spells of tier 1 in your spellbook. Each time you gain a level, you can add two more spells of a tier you can cast. 
 

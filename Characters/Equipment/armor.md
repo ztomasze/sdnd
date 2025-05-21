@@ -53,7 +53,7 @@ Some armor requires more [[equipment slots]] to wear or carry.
 | **plate**                 | Heavy  | 15       | 1       | 3     | 120       | Yes    |
 | *Shields*                 |        |          |         |       |           |        |
 | **small** (round, wooden) | Medium | +1*      | --      | 1     | 10        | No     |
-| **heavy** (kite, metal)   | Heavy  | +2       | --      | 1     | 30        | Yes    |
+| **large** (kite, metal)   | Heavy  | +2       | --      | 1     | 30        | Yes    |
 ### special
 
 * **shield bash:** You can use a shield to make a melee attack that deals d3 damage.

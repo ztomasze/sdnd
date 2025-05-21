@@ -18,7 +18,7 @@ Your [[ancestry]], [[class]], and [[talents]] determine the weapons you can use.
   
 - **Finesse:** You can attack with this weapon using either STR or DEX
 - **Loading:** You must spend an action to load this weapon before you can use it.  In the case of Loading(#), you load # shots each time you load it.
-- **Reach:** You can attack a target that is adjacent or just beyond adjacent (up to close).    
+- **Reach:** You can attack a target that is either 5' (adjacent) or 10' (close) away.    
 - **Thrown:** You can hurl this weapon to make a ranged attack (see above) using either STR or DEX. 
 - **Two-handed: (2H):** You must use two hands to wield this weapon.
 - **Versatile (V):** Deal the first damage value listed when wielding this weapon in one hand or the second damage value listed if wielding it in two hands. [[ancestry#size|Small]] characters are limited in their use of larger versatile weapons.
@@ -92,7 +92,7 @@ These additional weapons may be available in some campaign settings, such as tho
 **Special notes:**
 
 - **Garrote:** You can initiate a grapple using DEX. When you grapple a target with a garrote, they cannot speak or breathe and they take 1d4 damage at the end of each of their turns if they remain grappled.
-- **Shotgun:** Can fire both shots at once to gain advantage on the attack.
+- **Shotgun:** You can fire both shots at once to gain advantage on the attack.
 
 **Firearm ammo.** When using firearms, you still need a "quiver" to carry your ammo.  This takes the form of "a horn of powder and a bag of shot" for flintlock weapons and "a gun belt" with bullets in leather loops for more modern firearms.
 

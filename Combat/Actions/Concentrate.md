@@ -1,4 +1,4 @@
-> A [[action|major action]]
+> A [[action|standard action]]
 
 Give considerable attention to a mental effort. Certain spells or magic items may require you to spend an action in concentration to direct their effect.
 

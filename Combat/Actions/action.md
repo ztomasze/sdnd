@@ -1,16 +1,16 @@
 ---
 aliases:
   - actions
-  - major action
   - minor action
+  - standard action
 ---
 The set of actions defined here are the most commonly performed actions during a [[combat round]]. 
 
-An **action** is either a **major action**, **minor action**, or **free action**. If the type is not specified, it is a major action.
+An **action** is either a **standard action**, **minor action**, or **free action**. If the type is not specified, it is a standard action.
 
 Sometimes you can take a **reaction** when it is not your turn.
 
-### major actions
+### standard actions
 
 * [[Attack]] - Make an weapon or unarmed attack to deal damage
 * [[Cast]] - Cast a spell
@@ -18,9 +18,9 @@ Sometimes you can take a **reaction** when it is not your turn.
 * [[Dodge]] - Devote your attention to defense
 * [[Help]] - Aid an ally or distract an enemy
 * [[Ready]] - Prepare to act later in the round when the time is right
-* [[Rush]] - Hurriedly perform an extra minor action
+* [[Rush]] - Hastily perform a move and standard action
 * [[Use]] - Use an item
-* [[Wrestle]] - Grapple, trips, shove, etc.
+* [[Grapple]] - Grapple, trips, shove, etc.
 * [[Improvise]] - For any other significant action not listed above
 * Any minor action
 
@@ -37,6 +37,7 @@ Sometimes you can take a **reaction** when it is not your turn.
 ### free actions
 
 * [[free action]]
+* [[Delay]] - Wait to take your action until later in the round
 
 ### reactions
 

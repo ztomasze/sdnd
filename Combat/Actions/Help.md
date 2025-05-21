@@ -1,4 +1,4 @@
-> A [[action|major action]]
+> A [[action|standard action]]
  
 You **aid** an ally or **distract** an enemy. 
 
@@ -6,7 +6,7 @@ Narrate how you are doing this in the current context, such as by defending your
 
 In general:
 * Aiding an adjacent ally or distracting an adjacent enemy is automatic (with an adequate narrative explanation). 
-* Operating from a near distance might be possible with an ability roll, such as making a CHA(Performance) roll to blather or taunt well enough to distract a nearby enemy.
+* Operating from up to 30' away might be possible with an ability roll, such as making a CHA(Performance) roll to blather or taunt well enough to distract a nearby enemy.
 
 ### aid
 

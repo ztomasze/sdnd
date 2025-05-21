@@ -1,4 +1,4 @@
-> A [[action|major action]]
+> A [[action|standard action]]
 
 Use an item, such as a scroll, wand, potion, etc.  
 

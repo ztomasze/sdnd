@@ -9,7 +9,7 @@ A combat comprises of one or more **combat [[round|rounds]]**.
 
 Each round, each active creature (character or monster) gets one **turn** to act.
 
-During their turn, a creature can perform one [[action|major action]] + one [[action|minor action]] in either order. They can also perform a reasonable number of [[free action|free actions]].
+During their turn, a creature can perform one [[action|standard action]] + one [[action|minor action]] in either order. They can also perform a reasonable number of [[free action|free actions]].
 
 ### phases
 

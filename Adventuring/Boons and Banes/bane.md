@@ -4,6 +4,6 @@ A **bane** is a temporary distraction to a creature in combat. It represents tha
 When a creature has a bane: 
 
 - the next attack made that targets that creature gains +d6 to the roll
-- the next [[Attack]] or [[Wrestle]] roll made by that creature suffers -d6
+- the next [[Attack]] or [[Grapple]] roll made by that creature suffers -d6
 
 

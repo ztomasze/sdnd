@@ -12,4 +12,4 @@ Thaumaturges include the arcane scholar unwilling to be limited by the normal bo
 
 **Skill:** Gain Languages OR Lore.
 
-**Spellcasting:** You can learn spells from any spell list (Arcane, Divine, or Primal). All spells are on your class spell list, but you cast them as Arcane spells using INT. See [[spellcasting]] for more.
+**Spellcasting:** You can learn spells from any spell list (Arcane, Divine, or Primal). All spells are on your class spell list, but you cast them as Arcane spells using INT. See [[magic]] for more.

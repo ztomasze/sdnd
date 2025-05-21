@@ -33,7 +33,7 @@ From my last **playtest session**:
 * Actions were kind of long.  
 	* I wanted to support "I step back, draw my shield, and defend", all during a "one action" surprise round. Currently you can only draw a shield as part of a Move, so that wasn't possible. 
 	* I'm also tempted to add a free "5 foot step"
-	* So I'm getting up to major action + minor action + adjustment + free actions. 
+	* So I'm getting up to standard action + minor action + adjustment + free actions. 
 	* That means I've lost the inspiration/focus I had a month ago: 
 		* As in PF2e, an action is an action.
 		* But instead of 3 (as APs) per turn, we'll just do one and go around table faster!

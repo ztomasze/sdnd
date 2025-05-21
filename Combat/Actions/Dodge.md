@@ -1,4 +1,4 @@
-> A [[action|major action]]
+> A [[action|standard action]]
 
 Devote your full attention to your own preservation. 
 

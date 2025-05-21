@@ -17,16 +17,16 @@ Your [[class]] will determine the size of your **hit die (HD)**. The hit die for
 At level 1, you start with a number of hit points equal to the max value of your HD. Add CON and STR to this, but your minimum total is the max value of your HD.
 
 > **Example**  
-> A new [[wizard]] has a d4 HD, -2 STR, and +0 CON. While it initially looks like she would start with 4 - 2 + 0 = 2 hp, she will start with 4 hp, as that is the minimum for a starting character with d4 HD.
+> A new [[wizard]] has a d4 HD, -2 STR, and +0 CON. While it initially looks like she would start with 4 - 2 + 0 = 2 hp, she will start with 4 hp, as that is the minimum for a starting character with a d4 HD.
 
 > **Example**  
-> A new [[fighter]] has d8 HD, +2 STR, +1 CON. He starts with 11 hp.
+> A new [[fighter]] has a d8 HD, +2 STR, +1 CON. He starts with 11 hp.
 
-You can permanently lose hp, so it is possible to have fewer hit points than when you started.
+You can permanently lose hp, so it is possible to have a lower hit point capacity than you started with.
 
 ### leveling up
 
-When you level up, determine your new HD pool from the following table.
+When you level up, determine your new HD pool from the following table:
 
 | Level  | d4     | d6     | d8     | d10     | d12     |
 | ------ | ------ | ------ | ------ | ------- | ------- |
@@ -41,12 +41,11 @@ When you level up, determine your new HD pool from the following table.
 | **9**  | 5d4+8  | 5d6+8  | 5d8+8  | 5d10+8  | 5d12+8  |
 | **10** | 5d4+10 | 5d6+10 | 5d8+10 | 5d10+10 | 5d12+10 |
 
-Roll your new HD pool and then add your CON + STR modifiers (once each):
+Then:
 
-* Replace your hit point maximum with the value rolled if it is greater.
-* Otherwise, add 2 to your current HP max.
+1. Add 2 to your current HP max.
+2. Roll your new HD pool and add your CON + STR modifiers (once each). Replace your hit point maximum with this value if it is greater.
 
 ### recovery
 
 You can recover hit points lost to damage through magic or [[resting]].
-

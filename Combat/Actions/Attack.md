@@ -3,7 +3,7 @@ aliases:
   - attack
 ---
 
-> A [[action|major action]]
+> A [[action|standard action]]
 
 Make a weapon attack. 
 
@@ -19,7 +19,7 @@ To attack a target, you must first know its location. If you can’t see it and 
 
 The target must be within range of your weapon. 
 
-* For a melee weapon attack, this is usually adjacent. 
+* For a melee weapon attack, this is usually 5' (adjacent). 
 * For a thrown or ranged weapon, this depends on the range of the specific weapon.
 
 See [[weapons]] for more details, such as situations where you must make ranged attacks at disadvantage.

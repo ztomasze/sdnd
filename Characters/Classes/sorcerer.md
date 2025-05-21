@@ -10,7 +10,7 @@ A sorcerer channels raw magical energies or subtle effects provided through a pa
 
 ---
 
-**Spellcasting:** You cast learned Arcane spells using CHA. See [[spellcasting]] for more.
+**Spellcasting:** You cast learned Arcane spells using CHA. See [[magic]] for more.
 
 **Special: Magical Wellspring.** You have a number of d6 wellspring dice equal to your mastery.
 

@@ -14,4 +14,4 @@ A druid channels the magical forces of nature, elemental energies, or the spirit
 
 **Skill:** Gain the Survival skill.
 
-**Spellcasting:** You cast Primal spells using WIS.  See [[spellcasting]] for more.
+**Spellcasting:** You cast Primal spells using WIS.  See [[magic]] for more.

@@ -2,7 +2,7 @@
 aliases:
   - spellcasting
 ---
-> A [[action|major action]] (usually)
+> A [[action|standard action]] (usually)
 
 Cast a spell.  See [[magic]] for more context.
 
@@ -14,9 +14,9 @@ To cast a spell, you must be able to speak clearly and gesture freely with at le
 
 ### casting time
 
-Spell casting is not always a major [[action]]. A spell may take the following amount of time to cast:
+Spell casting is not always a standard [[action]]. A spell may take the following amount of time to cast:
 
-- **Action** - Most spells take a single major action to cast.
+- **Action** - Most spells take a single standard action to cast.
 - **Minor** - This spell can be cast as a minor action.
 - **Reaction** - This spell can be cast in response to a trigger stated in its description.
 - **Scene** - This spell takes at least a minute of uninterrupted ritual preparation before it can be cast
@@ -32,7 +32,7 @@ Unless otherwise stated in a spell, you must be able to see your target to affec
 The **range** of the spell specifies the max distance to a target.  In addition to the [[distance]] categories already defined, spell ranges include:
 
 - **Self** - Only the caster is affected.
-- **Touch** - As adjacent but the caster must also touch the target.  
+- **Touch** - As 5' (adjacent) but the caster must also touch the target.  
 
 The size of any produced [[areas|area]] of effect then be specified in the spell's description.
 

@@ -25,7 +25,7 @@ Monsters can have scores beyond this range (but abilities are rarely used for mo
 
 ### ability score generation
 
-When creating a new character, choose one of these methods:
+When creating a new character, choose one of these two methods:
 
 ##### roll
 1. Roll 3d6 for each ability in order to produce its score  
@@ -36,10 +36,9 @@ When creating a new character, choose one of these methods:
 ##### array
 Assign these scores to abilities as you choose: 15, 14, 12, 10, 10, 8.
 
-
 ### ability modifier
 
-Each ability modifier = (ability score - 10) / 2, round down.
+Each ability then has a modifier = (ability score - 10) / 2, round down.
 
 | score | modifier |
 | ----- | -------- |
@@ -59,6 +58,8 @@ Each ability modifier = (ability score - 10) / 2, round down.
 | 5     | -3       |
 | 4     | -3       |
 | 3     | -4       |
+
+Your [[intelligence|Intelligence]] score has a few additional effects.
 
 ### ability name  
 

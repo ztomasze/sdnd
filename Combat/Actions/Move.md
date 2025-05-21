@@ -1,10 +1,10 @@
 > A [[action|minor action]]
 
-Travel up to a near [[distance]], with some caveats.
+Travel up to 30', with some caveats.
 
 ### speed
 
-Some monsters move faster or slower than characters, so they might move only very near or to midrange with a single move.
+Some monsters move faster or slower than characters, so they might cover more or less [[distance]] with a single move.
 
 ### movement mode
 
@@ -18,7 +18,7 @@ There are no attacks of opportunity, retreat, or withdraw requirements. You can 
 
 ### difficult terrain
 
-If you are passing over uneven or treacherous ground, you move at half your normal speed. 
+If you are passing over uneven or treacherous ground, you move at half your normal speed.  On a grid, you generally pay this extra cost when you leave the square, since it's easier to step out of mud than into it.
 
 The nature of the hazard will have different implications.  For example, there's not much you can do about thick mud or thigh-deep snow other than just wade through it.  On the other hand, when traversing slick ice or a narrow beam, you might be able to make a DEX check to cross at full speed. However, expect a cost on a F or CF for such checks, such as making no progress at all, gaining a [[bane]], falling prone, taking damage, etc.
 

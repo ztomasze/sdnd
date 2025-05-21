@@ -33,4 +33,4 @@ Clerics and druids can prepare any spell from their full spell list. Wizards can
 
 All other spellcasters **learn** their spells. This means their set of spells known is fairly permanent.
 
-Any spellcaster can replace one learned spell with another valid choice when they level up. This includes cantrips, but does not include any spells gained through your [[ancestry]].
+Any spellcaster can replace one learned spell with another valid choice when they level up. This includes cantrips, but it does not include any spells gained through your [[ancestry]].
