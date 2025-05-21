@@ -1,9 +1,4 @@
----
-aliases:
-  - specialist
----
-
-The expert covers a wide range of versatile and skill-oriented archetypes, such as thieves, rangers, alchemists, scholars, entertainers, and more.
+The specialist covers a wide range of versatile and skill-oriented archetypes, such as thieves, rangers, alchemists, scholars, entertainers, and more.
 
 ---
 

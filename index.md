@@ -35,7 +35,7 @@ Recommended reading order:
 * [[druid]]
 * [[fighter]]
 * [[mage]]
-* [[expert]]
+* [[specialist]]
 ##### Features
 * [[skills]]
 * [[feats]]

@@ -4,7 +4,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 10  | 15  | 8   | 14  | 10  | 12  |
 
-**Class:** [[expert]]
+**Class:** [[specialist]]
 * Skills: Acrobatics, Athletics, Stealth, Thievery
 * Talent: [[sneak attack]]
 

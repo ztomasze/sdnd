@@ -5,7 +5,7 @@ aliases:
 ---
 A **talent** represents a powerful knack or special training. 
 
-[[fighter|Fighters]] gain one talent. [[expert|Experts]] can gain more than one talent and are able to improve their performance with them.
+[[fighter|Fighters]] gain one talent. [[specialist|Specialists]] can gain more than one talent and are able to improve their performance with them.
 
 The list of talents include:
 

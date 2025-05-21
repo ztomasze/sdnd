@@ -5,7 +5,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 12  | 15  | 10  | 8   | 14  | 10  |
 
-**Class:** [[expert]]
+**Class:** [[specialist]]
 * Skills: Athletics, Stealth, Survival, (Weapon Training: Longbow OR Armor Training)
 * Talent: [[herbalism]]
 
