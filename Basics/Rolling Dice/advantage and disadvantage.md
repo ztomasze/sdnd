@@ -10,4 +10,4 @@ If you have **advantage**, [[check|roll]] two dice and take the higher result. W
 
 ### dice pool
 
-If rolling a pool of (non-d20) dice with advantage--such as a damage roll or HD roll--roll double the size of the pool and drop the lower half.
+If rolling a pool of (non-d20) dice with advantage--such as a damage roll or HD roll--roll double the size of the pool and then drop the lower half.

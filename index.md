@@ -6,6 +6,7 @@ Recommended reading order:
 
 ## For All (Players + GM)
 ### Basics
+* [[task]]
 ##### Rolling Dice
 * [[check]]
 * [[difficulty class]]
@@ -17,17 +18,18 @@ Recommended reading order:
 * [[round]]
 * [[scene]]
 * [[real hour]]
+* Other durations: [[instant]], [[focus]], [[day]], [[permanent]]
 ##### Distance
 * [[distance]]
 * [[areas]]
 
 ### Characters
 ##### Stats
-* [[abilities]]
+* [[abilities]] - Including [[intelligence]] effects
 * [[hit points]]
 * [[mastery]]
-* [[luck]]
 * [[proficiency]]
+* [[luck]]
 ##### Ancestries
 * [[ancestry]]
 ##### Classes

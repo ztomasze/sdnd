@@ -21,7 +21,7 @@ SD&D uses the classic array of 6 **abilities**:
 
 For player characters, the score for each ability is always limited to between 3 and 18. 
 
-Monsters can have scores beyond this range (but abilities are rarely used for monsters).
+* Monsters can narratively have abilities beyond this range, but monsters don't use ability scores mechanically.
 
 ### ability score generation
 
@@ -34,7 +34,7 @@ When creating a new character, choose one of these two methods:
 4. You may then swap scores between abilities as desired. However, if you instead accept the ordering that fate has dealt you, gain +1 to a score of your choice.
 
 ##### array
-Assign these scores to abilities as you choose: 15, 14, 12, 10, 10, 8.
+Assign these six scores to abilities as you choose: 15, 14, 12, 10, 10, 8.
 
 ### ability modifier
 

@@ -11,4 +11,4 @@ Your **mastery** equals 1 + your even levels (or HD, in the case of monsters). 
 | **8**       | 5       |
 | **10**      | 6       |
 
-Your mastery is used for [[luck]], some class features, and some spell effects.
+Your mastery is commonly used for class features and spell effects.

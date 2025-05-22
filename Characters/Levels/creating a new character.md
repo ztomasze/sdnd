@@ -24,5 +24,6 @@ aliases:
 
 
 > TODO - **Character sheet changes**
+> - Add saves
 > - Drop "other details" in favor of a longer Skills list: skills (+benefit)
 > - Add coin purse color in place of expert.  Move exper. over by skills.

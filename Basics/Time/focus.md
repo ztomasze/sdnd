@@ -1,4 +1,3 @@
-
 A **focus** spell or effect requires your ongoing mental attention.  It ends either with the end of the current [[scene]] or as soon as your attention is interrupted.
 
 - While you focus, you can't cast another focus spell. You can end your focus at any time.

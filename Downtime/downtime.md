@@ -46,6 +46,11 @@ for nature casters
 Gain new skills? How about just get XP more reliably than carousing
 INT roll
 
+**???**
+Spend [[intelligence]] points
+
+Regain familiar
+
 **Research**
 Gather info, pour over documents 
 Devise new spells

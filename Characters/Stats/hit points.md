@@ -8,7 +8,7 @@ aliases:
 ---
 ### hit die (HD)
 
-Your [[class]] will determine the size of your **hit die (HD)**. The hit die for starting classes is either a d4, d6, or d8, but your hit die size can be increased through certain [[feats]].
+Your [[class]] will determine the size of your **hit die (HD)**. The hit die for starting classes is either a d4, d6, or d8, but your hit die size can be increased through the Improved HD [[feats|feat]].
 
 ### hit points (hp)
 
