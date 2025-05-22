@@ -16,7 +16,8 @@ A **check** is the most common way to resolve a [[task]] whose outcome is uncert
 
 To resolve a check, roll d20 + relevant [[abilities|ability]] modifier >= [[difficulty class]] (DC).
 
-- The GM determines the relevant [[abilities|ability]] to use based on the nature of the task. 
+- The GM determines the relevant [[abilities|ability]] to use based on the nature of the task.
+- Some features or effects will grant you additional bonuses to certain checks, such as using a [[skills|skill]].
 - Rolls are not needed for simple tasks or logical outcomes, but only when there is some risk, pressure, or question as to the likely result.
 - Attacks are a common kind of check. When making an [[attack]] roll, the DC equals the armor class (AC) of the target.
 

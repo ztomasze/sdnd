@@ -2,7 +2,7 @@
 aliases:
   - weapon
 ---
-Your [[ancestry]], [[class]], and [[feats]] determine the weapons you can use. 
+Your [[ancestry]], [[class]], and [[feat|feats]] determine the weapons you can use. 
 
 * Weapons are necessary to make an [[attack]].
 * If you use a weapon you are not [[proficiency|proficient]] with, your attacks with it are made at -4.

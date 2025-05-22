@@ -25,7 +25,7 @@ Recommended reading order:
 
 ### Characters
 ##### Stats
-* [[abilities]] - Including [[intelligence]] effects
+* [[abilities]] - including [[intelligence]] effects
 * [[hit points]]
 * [[mastery]]
 * [[proficiency]]
@@ -33,14 +33,15 @@ Recommended reading order:
 ##### Ancestries
 * [[ancestry]]
 ##### Classes
+* [[class]]
 * [[cleric]]
 * [[druid]]
 * [[fighter]]
-* [[mage]]
+* [[mage]] - including [[sorcerer]], [[thaumaturge]], [[theurge]], and [[wizard]]
 * [[specialist]]
 ##### Features
-* [[skills]]
-* [[feats]]
+* [[skills]] - including [[knowledge]]
+* [[feat|feats]]
 * [[talent|talents]]
 * [[background|backgrounds]]
 * [[language|languages]]
@@ -51,6 +52,7 @@ Recommended reading order:
 * [[weapons]]
 * [[gear]]
 ##### Levels
+* [[creating a new character]]
 * [[experience points]]
 * [[level advancement]]
 
@@ -64,7 +66,7 @@ Recommended reading order:
 * [[initiative]]
 * [[surprise]]
 ##### Actions
-* [[action]] - Including the many listed actions
+* [[action]] - including the many listed actions
 ##### Other Details
 * [[mounted combat]]
 

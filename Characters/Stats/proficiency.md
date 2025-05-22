@@ -27,7 +27,7 @@ Characters are usually proficient in all [[skills]] and in some subset of the av
 
 ### improved
 
-Through certain [[feats]], your proficiency bonus in [[weapons]] and [[Cast|spellcasting]] can be improved, and you can gain a greater benefit from [[armor]].
+Through certain [[feat|feats]], your proficiency bonus in [[weapons]] and [[Cast|spellcasting]] can be improved, and you can gain a greater benefit from [[armor]].
 
 ### expertise
 

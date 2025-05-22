@@ -4,5 +4,5 @@
 **Class:** 
 
 
-**Featss**
+**Feats**
 1. ...

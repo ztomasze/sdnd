@@ -1,3 +1,10 @@
+---
+aliases:
+  - craft
+  - profession
+  - secondary skill
+---
+
 Your base Intelligence [[abilities|ability]] has the following additional effects. 
 
 These effects are not modified by temporary changes to your Intelligence, such as through the use of magic items. You may gain additional features if you increase your Intelligence through [[level advancement|level ups]].

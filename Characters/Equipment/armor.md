@@ -2,7 +2,7 @@
 aliases:
   - AC
 ---
-Your [[class]] and [[feats]] determine the types of armor you can use.
+Your [[class]] and [[feat|feats]] determine the types of armor you can use.
 ### type
 
 You need to be proficient with an armor's type to wear it without penalty.  Your armor type proficiency also determines which shields you can use effectively, as noted in the table below. 

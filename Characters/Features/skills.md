@@ -2,7 +2,7 @@
 aliases:
   - skill
 ---
-While characters are typically [[proficiency|proficient]] in all skills, some [[class|classes]] and [[feats]] will grant you skill [[proficiency#expertise|expertise]].
+While characters are typically [[proficiency|proficient]] in all skills, some [[class|classes]] and [[feat|feats]] will grant you skill [[proficiency#expertise|expertise]].
 
 Expertise in a **skill** grants you:
 

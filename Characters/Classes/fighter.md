@@ -4,7 +4,7 @@ A fighter is an exemplar of armed combat. While some may choose to cultivate a n
 
 **HD:** d8  
 
-**Armor:** Light, Medium, and (Heavy OR gain the Unarmored [[feats|feat]])
+**Armor:** Light, Medium, and (Heavy OR gain the [[Unarmored]] feat)
 
 **Weapons:** All. See the [[weapons]] table.
 

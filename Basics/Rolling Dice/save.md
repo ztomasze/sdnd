@@ -13,5 +13,5 @@ When rolling a save, roll an [[check|ability check]] of the corresponding abilit
 * The DC is always Hard (15)
 * A natural 20 always succeeds, and a natural 1 always fails.
 * Your save is affected by any circumstantial bonus or penalty, advantage or disadvantage, to the base ability of that save.
-* The Improved Save [[feats|feat]] can let you add a secondary ability modifier to one of your saves.  (This provides a static bonus; it does not confer any circumstantial effects from that secondary ability.)
+* The [[Improved Save]] feat can let you add a secondary ability modifier to one of your saves.  (This provides a static bonus; it does not confer any circumstantial effects from that secondary ability.)
 * Certain items or effects might grant you a bonus to one or more saves (which does not apply to other ability checks).
