@@ -8,7 +8,7 @@ aliases:
   - sunlight
 ---
 
-Essential for character [[vision]].
+Light is essential for character [[vision]].
 
 Light come in 4 levels:
 ##### darkness

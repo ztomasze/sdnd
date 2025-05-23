@@ -5,7 +5,7 @@ This [[talent]] lets you enter a wild and reckless battle frenzy. For a single c
 On your turn, you can start to rage as a free action. While raging, you:
 
 * gain (mastery)d4+4 temporary hit points
-* gain the Weapon Mastery [[feat|feat]] with any STR-based weapons
+* gain the [[Weapon Mastery]] feat with any STR-based weapons
 * gain advantage on any STR-based [[check|checks]] (including attacks)
 * gain advantage on Will saves
 
