@@ -7,13 +7,13 @@ Your [[class]] and [[feat|feats]] determine the types of armor you can use.
 
 You need to be proficient with an armor's type to wear it without penalty.  Your armor type proficiency also determines which shields you can use effectively, as noted in the table below. 
 
-If you don armor or a shield you are not [[proficiency|proficient]] with, you are -4 on any STR or DEX roll that the armor might hamper (including attacks), and you cannot cast spells.
+If you don armor or a shield you are not [[proficiency|proficient]] with, you are -4 on any STR or DEX rolls that the armor might hamper (including attacks), and you cannot cast spells.
 
 Heavier armors impose some penalties even when you are proficient:
 
 * **In metal armor that takes 2 or more slots:** You are at disadvantage on stealth checks and can't swim.
 
-The GM may impose other similar penalties, such as disadvantage on swim checks in padded armor or while carrying a metal shield.
+The GM may impose other similar penalties in certain circumstances, such as disadvantage on swim checks in padded armor or while carrying a metal shield.
 
 ### armor class (AC)
 
@@ -39,11 +39,11 @@ Some armor requires more [[equipment slots]] to wear or carry.
 | Armor                     | Type   | Armor AC | Max DEX | Slots | Cost (gp) | Metal? |
 | ------------------------- | ------ | -------- | ------- | ----- | --------- | ------ |
 | *Light armor*             |        |          |         |       |           |        |
-| **leather**               | Light  | 11       | 4       | 1     | 10        | No     |
-| **studded** (brigandine)  | Light  | 12       | 2       | 1     | 30        | Yes    |
-| **padded** (gambeson)     | Light  | 13       | 0       | 1     | 50        | No     |
+| **leather** (jerkin)      | Light  | 11       | 4       | 1     | 10        | No     |
+| **studded** (brigandine)  | Light  | 12       | 2       | 1     | 25        | Yes    |
+| **padded** (gambeson)     | Light  | 13       | 0       | 1     | 15        | No     |
 | *Medium armor*            |        |          |         |       |           |        |
-| **hide**                  | Medium | 13       | 2       | 1     | 20        | No     |
+| **hide** (boiled)         | Medium | 13       | 2       | 1     | 25        | No     |
 | **ringmail**              | Medium | 13       | 2       | 1     | 30        | Yes    |
 | **scale**                 | Medium | 14       | 0       | 2     | 60        | Yes    |
 | **chainmail**             | Medium | 14       | 1       | 3     | 80        | Yes    |
