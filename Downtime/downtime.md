@@ -13,12 +13,11 @@ While most downtime activities can be pursued individually, some are group activ
 
 **Downtime activities** include:
 
-* [[carouse]] - Turn gold into XP through raucous celebration
-* [[recover luck]] - Restore your 3 luck points
-
-
-### Carousing
-
+| Activity         | Description                                    | Days | Cost                    |
+| ---------------- | ---------------------------------------------- | ---- | ----------------------- |
+| [[carouse]]      | Convert gold to XP through raucous celebration | 1+   | 15+ gp per participant  |
+| [[gain a level]] | Spend XP to increase one class level.          | 1    | (10 x current level) XP |
+| [[recover luck]] | Recover your expended luck points.             | 1    | 1 XP or 10 gp           |
 
 
 ### Crafting
@@ -67,9 +66,7 @@ gaining renown (for social benefit)
 **Practicing**
 lets you bank downtime days for later use
 
-**Level Up**
-Purchase a level up
-training
+
 
 
 
