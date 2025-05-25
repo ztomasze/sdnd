@@ -9,7 +9,7 @@ Make a weapon attack.
 
 ### in hand
 
-You need the requisite weapon in hand, so you may need to [[Manipulate]] to draw it first. You can freely draw any ammo needed from a quiver.
+You need the requisite weapon in hand, so you may need to [[Manipulate]] it to draw it first. You can freely draw any ammo needed from a [[gear#quiver|quiver]].
 
 ### target's location
 
@@ -33,14 +33,14 @@ Make an [[check|ability check]] appropriate to your [[weapons|weapon]].
 The DC for this check equals the AC of your target (which can be modified by [[#cover]]):
 
 - **S:** You hit your target and deal damage equal to a roll of the weapon’s damage die.  
-	* This might include additional dice from talents such as [[sneak attack]] or an magical augment such as flaming weapon. You do not add an ability modifier to the damage. See [[damage]] for more.
+	* This might include additional damage dice from talents such as [[sneak attack]] or an magical augment such as flaming weapon. You do not add an ability modifier to the damage roll. See [[damage]] for more.
 	- **CS:** You hit your target, regardless of its AC. If you would have already hit your target, either add a second roll of your weapon's damage dice OR impose 1 [[bane]] on the target.
 - **F:** You miss and deal no damage.
     - **CF:** You miss your target, regardless of its AC. If you already would have missed, you also overstep or otherwise leave yourself vulnerable: Gain 1 [[bane]].
     
 ### cover
 
-If your target’s body is partly behind a solid obstacle, they gain +2 AC for half cover or +5 AC for three-quarters or more cover.  This same bonus also applies to DEX saves versus any effect that pass over the cover. 
+If your target’s body is partly behind a solid obstacle, they gain +2 AC for half cover or +5 AC for three-quarters or more cover.  This same bonus also applies to Reflex saves versus any effect that passes over the cover. 
 
 If your target has total cover, you can’t usually attack them (unless you have an attack that can extend around corners like a fireball or a punch through thin cover like a woven mat wall). 
 
@@ -52,15 +52,21 @@ If you can’t clearly see the outline of your target, such as due to darkness, 
 
 ### non-lethal
 
-If you are wielding a bludgeoning weapon--like your fists, a club, sap, staff, etc--you can choose to leave your target unconscious, stable, and alive when they hit 0 hp.  
+If you are wielding a bludgeoning melee weapon--like your fists, a club, sap, staff, etc--you can choose to leave your target unconscious, stable, and alive when they hit 0 hp.  
 
 You may also be able to attack with the flat of your blade, a sheathed sword, or the haft of your weapon, but such attacks deal at most 1d4 damage.
 
 ### coup de grace
 
-If your target is unconscious or similarly immobile and you have an appropriate weapon, you can kill it without making a roll. For example, you might be able to stake a slumbering vampire or slit an unconscious goblin's throat, but you probably can't slay a sleeping adult dragon with one thrust of a dagger.
+If your target is unconscious or similarly immobile, you are not threatened, and you have an appropriate weapon, you can kill it without making an attack roll. For example, you might be able to stake a slumbering vampire or slit an unconscious goblin's throat, but you probably can't slay a sleeping adult dragon with one thrust of a dagger.
 
 ### two-weapon fighting
 
-You can fight with one club, dagger, hammer, handaxe, shortsword or other GM-allowed weapon in each hand. Gain finesse on your attack only if both weapons have the property. On a hit, roll both weapon damage dice and take the better result.
+You can fight with one club, dagger, hammer, handaxe, shortsword or other GM-allowed weapon in each hand. You must be proficient with both weapons.
 
+Make a single attack roll.
+
+* Choose one of the weapons to use to determine your attack roll bonus.
+* Attack using finesse only if both weapons have the property. 
+
+On a hit, roll damage for each weapon separately and then choose one result to apply.

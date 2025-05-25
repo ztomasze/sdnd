@@ -19,33 +19,37 @@ Spell casting is not always a standard [[action]]. A spell may take the followin
 - **Action** - Most spells take a single standard action to cast.
 - **Minor** - This spell can be cast as a minor action.
 - **Reaction** - This spell can be cast in response to a trigger stated in its description.
-- **Scene** - This spell takes at least a minute of uninterrupted ritual preparation before it can be cast
+- **Scene** - This spell takes at least a minute of uninterrupted ritual preparation before it can be cast.
+
+### concentration
+
+You must concentrate for the duration of the casting time. If your [[concentration]] is interrupted--such as by a readied attack--you must make a concentration save to continue casting.
 
 ### target
   
 Unless otherwise stated in a spell, you must be able to see your target to affect it, whether it is a creature, object, or point in space. 
 
-* If a spell requires you to touch your target, you do not also need to be able to see it.
+* If a spell requires you to touch your target, you do not also need to be able to see it. However, you must still know its exact location.
 
 ### range
 
 The **range** of the spell specifies the max distance to a target.  In addition to the [[distance]] categories already defined, spell ranges include:
 
 - **Self** - Only the caster is affected.
-- **Touch** - As 5' (adjacent) but the caster must also touch the target.  
+- **Touch** - As 5' (adjacent) but the caster must also touch the target. This can be done automatically as part of casting the spell using the same hand used to produce the spell's gestures.
 
-The size of any produced [[areas|area]] of effect then be specified in the spell's description.
+The size of any produced [[areas|area]] of effect is specified in the spell's description.
 
 ### spellcasting roll
 
-A spellcasting roll  is an ability roll using your spellcasting ability.  
+A spellcasting roll is an ability roll using your spellcasting ability.  
 
 * You select your spellcasting ability from the options allowed by your class; you cannot change this choice later.   
 
 The DC to cast a spell is 10 + the spell’s tier:
 
 - **S:** The spell effect happens.
-	- **CS:** Thanks to a surge of magic, you can recover one exhausted spell of the same or lower tier.
+	- **CS:** Thanks to a surge of controlled magic, you can recover one exhausted spell of the same or lower tier.
 - **F:** Nothing happens and the spell is **exhausted**: You cannot cast that spell again until you complete a long rest.
 	- **CF:** You also suffer a **mishap**, as determined by your magic tradition.
 
@@ -60,9 +64,9 @@ Some spells have a modifier that changes how they are cast:
 Once the spell has been cast, it will last for one of the defined durations:
 
 * [[instant]]
-* [[round]]
+* [[combat round]]
 * [[scene]]
-* [[focus]]
+* [[concentration]]
 * [[real hour]]
 * [[day]]
 * [[permanent]]

@@ -18,7 +18,7 @@ Recommended reading order:
 * [[round]]
 * [[scene]]
 * [[real hour]]
-* Other durations: [[instant]], [[focus]], [[day]], [[permanent]]
+* Other durations: [[instant]], [[concentration]], [[day]], [[permanent]]
 ##### Distance
 * [[distance]]
 * [[areas]]
@@ -63,8 +63,8 @@ Recommended reading order:
 
 ##### Combat Structure
 * [[combat round]]
-* [[initiative]]
 * [[surprise]]
+* [[initiative]]
 ##### Actions
 * [[action]] - including the many listed actions
 ##### Other Details

@@ -1,23 +1,19 @@
 ---
 aliases:
-  - surprised
+  - surprise round
+  - suprised
 ---
 
 The GM determines whether one side has surprised the other. 
 
-First, surprise changes the [[initiative]] order for the first [[combat round]]:
+If there is some doubt, individuals on the surprised side might get a chance to make a roll to avoid being surprised. Common examples of this include a WIS(Perception) check against an attacker's stealth in an ambush situation or a WIS(Insight) check against an attacker's deception in a sudden betrayal situation.
 
-* If **both** or **neither** side is surprised, the normal initiative rules are used.
-* If **characters surprise monsters**, all characters automatically succeed their initiative rolls.
-* If **monsters surprise characters**, all characters automatically fail their initiative rolls.  However, monsters can perform only a single [[action]] during their first turn. 
+### surprise round
 
-Second, surprised creatures are [[unaware]] of their opponents until their first turn.  
+If at least one combatant is surprised and at least one combatant is not, the first [[combat round|round of combat]] is a **surprise round**:
 
-Surprised characters make a DEX save at the start of the round. On a success, they react fast enough to be aware of their opponents from the start of the round (but their initiative does not change). 
+* Roll [[initiative]] only for the non-surprised combatants
+* Surprised combatants are [[unaware]] for this round
+* On their turn, a combatant may only perform a standard [[action]] and free actions (but no minor action unless it is in place of their standard action)
 
-Setting up an effective ambush often involves [[hiding]] first.
-
-
-> **Option: Both surprised**  
-> Alternatively, players roll initiative, but all creatures can only perform a single action this turn.  Characters that succeed on initiative act first, then all monsters, then any characters the failed on initiative.
-
+At the end of the surprise round, roll initiative for any surprised combatants. Combat then proceeds normally for future rounds.

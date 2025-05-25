@@ -3,7 +3,7 @@
 Hastily perform a [[Move]] + one of these standard actions: [[Attack]], [[Cast]], or [[Grapple]].
 
 * You can perform the Move and standard action in either order.
-* Any ability checks you make this turn are at disadvantage. 
+* Any ability checks you make this turn are at disadvantage, excluding saves.
 
 Some common uses for a Rush are to:
 

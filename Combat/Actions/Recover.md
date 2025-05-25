@@ -1,3 +1,9 @@
 > A [[action|minor action]]
 
-Remove one [[bane]] from yourself.
+Attempt to recover from a bad situation.  Choose one:
+
+* Remove one [[bane]] from yourself.
+* Make a [[save]] to end an ongoing effect.
+
+
+

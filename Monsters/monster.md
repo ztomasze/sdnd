@@ -80,11 +80,12 @@ If innate effect (times per day), it just happens automatically.
 If spellcaster, then make an Easy (DC7) check to cast with no mishap.
 
 **Saves**
-If ever necessary:
+
 * Hard check (DC15)
-* +2 Will if human-level intelligence or higher. +2 Will if have spell-like abilities.
-* +X if Fort if HD+X (up to +4)
-* +2 Ref if speed is faster than Normal; -2 Ref if slower than normal
+* +1 for every 2 (even) HD
+* Fort: +X if HD+X (up to +4)
+* Ref: +2 if speed is faster than Normal; -2 Ref if slower than normal
+* Will: +2 Will if human-level intelligence or higher. +2 Will if have spell-like abilities; -2 if animal intelligence
 
 ### example
 

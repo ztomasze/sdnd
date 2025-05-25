@@ -14,13 +14,12 @@ Sometimes you can take a **reaction** when it is not your turn.
 
 * [[Attack]] - Make an weapon or unarmed attack to deal damage
 * [[Cast]] - Cast a spell
-* [[Concentrate]] - Gain a bonus to maintain certain spells
 * [[Dodge]] - Devote your attention to defense
+* [[Grapple]] - Grapple, trips, shove, etc.
 * [[Help]] - Aid an ally or distract an enemy
 * [[Ready]] - Prepare to act later in the round when the time is right
 * [[Rush]] - Hastily perform a move and standard action
 * [[Use]] - Use an item
-* [[Grapple]] - Grapple, trips, shove, etc.
 * [[Improvise]] - For any other significant action not listed above
 * Any minor action
 

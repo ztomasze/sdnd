@@ -1,10 +1,13 @@
 > A [[action|standard action]]
 
-A grapple is a catch-all for any assault that grabs, pushes, shoves, or otherwise aims to aggressively affect another creature in ways other than dealing damage. (Some grapples, especially by monsters, may still inflict damage as a secondary effect.)
+A **grapple** is a catch-all for any assault that grabs, pushes, shoves, or otherwise aims to aggressively affect another creature in ways other than dealing damage. (Some grapples, especially by monsters, may still inflict damage as a secondary effect.)
 
 ### hands required
 
-Unless otherwise noted, initiating a grapple requires two free hands. You can attempt to start a grapple with only one free hand at disadvantage.  (Exceptions include grappling with a weapon like a garrote or a monster using one of its many tentacles.)
+Unless otherwise noted, initiating a grapple requires two free hands.
+
+* You can attempt to start a grapple with only one free hand at disadvantage.  
+* Exceptions include grappling with a weapon like a garrote or a monster using one of its many tentacles.
 
 You must touch your opponent, so you can't grapple an incorporeal creature, and you will likely take some damage if you try grappling a fire elemental or a porcupine.
 

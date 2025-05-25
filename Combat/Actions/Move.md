@@ -20,20 +20,20 @@ There are no attacks of opportunity, retreat, or withdraw requirements. You can 
 
 If you are passing over uneven or treacherous ground, you move at half your normal speed.  On a grid, you generally pay this extra cost when you leave the square, since it's easier to step out of mud than into it.
 
-The nature of the hazard will have different implications.  For example, there's not much you can do about thick mud or thigh-deep snow other than just wade through it.  On the other hand, when traversing slick ice or a narrow beam, you might be able to make a DEX check to cross at full speed. However, expect a cost on a F or CF for such checks, such as making no progress at all, gaining a [[bane]], falling prone, taking damage, etc.
+The nature of the hazard will have different implications.  For example, there's not much you can do about thick mud or thigh-deep snow other than just wade through it.  On the other hand, when traversing slick ice or a narrow beam, you might be able to make a DEX(Athletics) check to cross at full speed. However, expect a cost on a F or CF for such checks, such as making no progress at all, gaining a [[bane]], falling prone, taking damage, etc.
 
 ### past other creatures
 
 Moving through an occupied space is treated as difficult terrain.
 
-* You can move through or past a willing ally without a check. 
-* To move through a tiny space occupied by an enemy that doesn't want to let you pass, you can contest STR vs STR to shove past or DEX vs STR to dart around.
+* You can move through or past a willing ally without a check, but you can't stop there unless they are prone. 
+* To move through a square occupied by an enemy that doesn't want to let you pass, you can **overrun** or **tumble** to get past.
+	*  You can move through with a contest if the creature is 2 sizes larger or smaller than you.
 
 ### climbing and swimming
 
-This typically means moving at half speed, as per difficult terrain. If the climb is particularly treacherous or the water particularly rough, a STR or DEX check may be necessary to make any progress at all. On a CF, you either fall or start to drown.
+This typically means moving at half speed, as per difficult terrain. If the climb is particularly treacherous or the water particularly rough, a STR(Athletics) or DEX(Athletics) check may be necessary to make any progress at all. On a CF, you either fall or start to drown.
 
 ### uninterrupted movement
 
-Taking an [[action]] ends your movement. You cannot move a few steps, act, and then continue to move.  (But see [[Rush]].)
-
+Taking an [[action]] ends your movement. You cannot move a few steps, act, and then continue to move. (But see [[Rush]].)
