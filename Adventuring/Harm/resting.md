@@ -28,6 +28,7 @@ If you successfully complete a long rest:
 - Remove all physical and mental drain
 - Remove 1d4 life drain
 - Spellcasters recover all exhausted (but not inaccessible) spells
+- Reduce the value of any temporary [[injury|injuries]] by 1.
 - Recover any other uses that return on a short rest or long rest
 
 ### excursions

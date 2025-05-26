@@ -13,19 +13,27 @@ You must touch your opponent, so you can't grapple an incorporeal creature, and 
 
 ### grapple
 
-In its most basic form, you attempt to grab, hold, and restrain your target.
+In its most basic form, you attempt to grab, hold, and restrain your target.  
 
-* Contest your STR(Athletics) with the target's choice of STR(Athletics) or DEX(Acrobatics)
+Resolve this as a melee [[contest]]: 
 
-If one participant is a monster, they use their normal attack modifier. Against a character, this can be static, which means this becomes a test DC 10+HD.
-
+* The attacker rolls a STR-based melee attack roll. 
+	* Add half of your expertise in Athletics. 
+* The defender can choose to roll either a STR-based or DEX-based melee attack roll. 
+	* If using STR: Add half of your expertise in Athletics. Gain advantage if you are a size larger than the attacker or disadvantage if you are smaller.
+	* If using DEX: Add half your expertise in Acrobatics.
+* Monsters use their normal attack rolls. 
+	* Against a character, this can be static, which means this becomes a test vs DC 10+HD. They gain +4 or -4 if they have advantage or disadvantage.
 * As with any attack, other modifiers may apply, depending on the situation.
 
-If you succeed, you are now hanging onto your target with however many hands (or weapon) you used to start the grapple.
+A tie means the current states persist: No grapple is established if you’re trying to create one or the grapple purse if you were trying to break one. 
 
-* Your target is your size, they are is generally restrained and can't move away without a STR contest to drag you along.
+If you win as the attacker, you are now hanging onto your target with however many hands (or weapon) you used to start the grapple.
+
+* If your target is your size, they are generally grabbed ([[impeded]]) if you used one hand or [[restrained]] if you used two and can't move away.
 * If they are one or more categories smaller, you can probably pick them up.
-* If they are one or more categories larger, you can probably only hanging onto them, though this will likely still impede their movements and combat actions.
+* If they are one or more categories larger, you can probably only hang onto them, though this will likely still [[impeded|impede]] their movements and combat actions.
+* You can let go at any time to end the grapple.
 
 ### climb onto
 
@@ -35,62 +43,33 @@ If such a creature can reach you, it generally only takes an uncontested Manipul
 
 ### disarm
 
-Instead of grappling to hold on, you can instead attempt to wrest free a weapon or other item from their grip or pull another readily available item from their person. 
+Instead of grappling to hold on, you can instead attempt to wrest a weapon or other item from their grip or pull another readily available item from their person. They have advantage if they are holding the item with two hands.
 
-If you aim to disarm the target of a weapon, you can make this test using an attack roll with an appropriate melee weapon instead.  On a CS, you can choose to sunder (break) their weapon or held item.
+If you aim to disarm the target of a weapon, you can make this test using an attack roll with an appropriate melee weapon instead.  On a CS, you can choose to sunder (break) their weapon or held item (if that is feasible with your weapon).
+
+### overrun
+
+You can can perform this action in the middle of a Move. Instead of grappling to hold on, you simply try to push past. Both the attacker and defender must use STR. If you are mounted, your mount makes the check. On a failure, your move ends just before the defender. (See also: tumble)
 
 ### shove (bull rush)
 
-push back a step
+Instead of grappling to hold on, you can push the target 5' back on a success. If you Move toward your target immediately before the shove, you gain advantage on this contest.
 
 ### squeeze
 
-Once you have established a grapple, you can repeat the check in a subsequent action to deal your unarmed or natural weapon damage to your target. 
+Once you have established a grapple, you can repeat the grapple contest in a subsequent action to deal your unarmed or natural weapon damage to your target. 
 
 ### tackle (overbear)
 
-Resolve as per **grapple**, but on a failure you end up prone and on a success both you and your target end up prone. If you Move toward your target immediately before the tackle, you get gain advantage on the grapple check.
+You attempt to drag your foe to the ground while you grapple them. Resolve as per a grapple. On a failure you end up prone. On a success, both you and your target end up prone (as well as the normal grapple effects). 
+
+If you Move toward your target immediately before the tackle, you gain advantage on this contest.
 
 ### trip
 
-pull rider from mount.
-trip with weapon, dropping weapon on a failure
-
-
-# bypass
-### overrun
-
-push past or knock down
-act during move (as exception)
-oppenent can just let you by instead
-if mounted, mount makes the check
-
-CS: deal an unarmed (or hoof or equivalent for mount) attack
+Instead of grappling to hold on, on a success you knock the defender prone.  You can also use to this to pull a rider from their mount.  You can can trip with some weapons, but you drop the weapon on a CF.
 
 ### tumble
 
+You can can perform this action in the middle of a Move. Instead of grappling to hold on, you can through the defender's square. Both the attacker and defender must use DEX. You cannot take this action while mounted. On a failure, your move ends just before the defender.  (See also: overrun)
 
-- Climb Onto - (DMG) As DMG. Get onto a much larger creature (possibly via Athletics), then make Athletics or Acrobatics vs larger creature's Acrobatics. On success, move into the larger creature's space, hang one, be moved with it, and have advantage on attacks on it.  Can move around on larger creatures as difficult terrain. Larger creatures can typically spend an action to make a Grapple check to try to dislodge you
-    
-- Disarm - (DMG) Make an attack roll vs target's Athletics or Acrobatics to force the target to drop a thing. Attack is at disadvantage if the target is holding with two hands. Creature has adv or disadv to resist if it is larger or smaller.
-    
-- Grapple - As RAW.  (Athletics vs Athletics or Acrobatics)
-    
-- Overrun -(DMG)  As an action or bonus action, roll Athletics vs Athletics to move through the target's space. Adv if larger, disadv if smaller.
-    
-- Pin - (Formerly required the Grappler feat) You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.  +(This takes two free hands. You can try doing this one-handed, but then your grapple roll is at disadvantage.)
-    
-- Shove - As RAW (Shove to push back 5')
-    
-
-- Can be used to break a grapple by pushing the grappler away from you.
-    
-- Shove Aside - (DMG) If made at disadv, can move the target 5' to another space within your reach.
-    
-
-- Tackle - A single contest that is effectively Trip + Grapple. You fall prone with your target, but you get to maintain a grapple while you do. If you 
-    
-- Trip - As RAW (Shove to knock prone)
-    
-
-Tumble - (DMG) As action or bonus action, roll Acrobatics vs Acrobatics to move through the target's space.

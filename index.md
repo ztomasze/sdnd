@@ -29,7 +29,7 @@ Recommended reading order:
 * [[hit points]]
 * [[mastery]]
 * [[proficiency]]
-* [[luck]]
+* [[luck points]]
 ##### Ancestries
 * [[ancestry]]
 ##### Classes
@@ -58,6 +58,22 @@ Recommended reading order:
 
 ### Adventuring
 
+##### Harm
+* [[damage]]
+* [[dying]]
+* [[drain]]
+* [[injury]]
+* [[resting]]
+##### Conditions
+* [[boons and banes]] - including [[boon]] & [[bane]]
+* [[condition|conditions]]
+##### Light and Vision
+* [[light]] - including [[light source]]
+* [[vision]] - including [[dimsight]]
+* hiding
+* invisibility
+##### Hazards
+* [[falling]]
 
 ### Combat
 
@@ -73,14 +89,13 @@ Recommended reading order:
 ### Magic
 
 * [[magic]]
-* [[tradition]] - Including [[arcane]], [[divine]], [[primal]]
+* [[tradition]] - including [[arcane]], [[divine]], [[primal]]
 * [[spells known]]
 * [[cantrip]]
-* [[spell]] - Including [[Cast]], [[rote]]
+* [[spell]] - including [[Cast]], [[rote]]
 
 ## For GMs
 
 group roll
 challenge
-
-* [[morale check]]
+[[morale check]]

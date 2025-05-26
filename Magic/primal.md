@@ -8,7 +8,7 @@ This limitation does not apply if you gained access to the spell through other m
 
 ### mishap
 
-Your spiritual connection with the natural world wavers. The spell slot of the spell you just tried to cast is now **inaccessible** to you. 
+Your spiritual connection to the natural world wavers. The spell slot of the spell you just tried to cast is now **inaccessible** to you. 
 
 To recover it, you must contemplate and commune with nature in a sufficiently wild natural area for 1 day per spell tier.  If this contemplation is also done in the presence of an ancient Druidic standing stone or stone circle, you can halve this time.
 

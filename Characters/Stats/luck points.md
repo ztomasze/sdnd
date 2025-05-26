@@ -1,4 +1,4 @@
-You can leverage **luck** to turn fate to your favor.  
+You can leverage **luck points** to turn fate to your favor.  
 
 You start with 3 luck points. 
 

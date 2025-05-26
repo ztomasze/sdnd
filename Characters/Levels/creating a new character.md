@@ -13,7 +13,7 @@ aliases:
 7. Select your [[starting gear]]
 	1. Cross out the equipment slots you can't use
 	2. Use the "5/slot" table to track small items or item uses
-8. Start with 1 [[experience points|XP]] and 3 [[luck]] points
+8. Start with 1 [[experience points|XP]] and 3 [[luck points]]
 9. Fill in details
 	1. Pick a character name
 	2. Add a description

@@ -3,7 +3,7 @@
 
 ### type
 
-Damage can have a type.  This is an open set that includes:
+Damage can have a type.  This is an open set of types that includes:
 
 * **bludgeoning**, **slashing**, or **piercing** depending on the nature of the weapon
 * **acid,** **cold**, **fire**, and **lightning** as elemental damage
@@ -15,9 +15,9 @@ Damage can have a type.  This is an open set that includes:
 
 ### type effects
 
-Some damage types might always have an effect.  Example:
+Some damage types might always have an given quality or side effect.  Examples:
 
-* **Fire** damage always ignites very flammable materials, such as oil or tinder.  (Lighting combustible materials like paper or clothing might take more than an [[instant]] fire damage effect.)
+* **Fire** damage always ignites very flammable materials, such as oil or tinder.  (Igniting combustible materials like paper or clothing might take more than an [[instant|instantaneous]] fire damage effect.)
 * **Necrotic** damage does not harm non-living creatures (undead and constructs)
 * **Thunder** damage is negated in an area of magical silence.
 
@@ -29,5 +29,6 @@ Depending on the damage type and the qualities of the target of that damage, the
 - **Immune:** You take no damage.
 * **Vulnerable:** You take double damage.
 
-For examples, skeletons might be vulnerable to bludgeoning damage and a werewolf might be immune to weapon damage unless it is silver damage.
+For example, skeletons might be vulnerable to bludgeoning damage and a werewolf might be immune to weapon damage unless it is silver damage.
 
+Immunity might narratively mean the creature is impervious or they may heal such damage nearly instantly.

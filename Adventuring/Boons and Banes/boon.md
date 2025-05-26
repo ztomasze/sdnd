@@ -4,5 +4,5 @@ A [[boon]] represents a creature having a momentary reprieve or opportunity in c
 
 When a creature has a boon:
 
-- the next attack that targets the creature is made at -d6 if the creature with the boon can see the incoming attack
+- the next attack that targets the creature suffers -d6 if the creature with the boon can see the incoming attack
 - the next [[Attack]] or [[Grapple]] roll made by that creature gains +d6

@@ -9,7 +9,7 @@ Examples include: 
 
 - affect a different target (including yourself)    
 - produce a different spell effect
-- this spell or another one is inaccessible for days (or you even forget the spell entirely)
+- this spell or another one is inaccessible for days
 - take 1d6 damage per spell tier
 - deal damage to those around you
 - suffer some debilitating effect for a while

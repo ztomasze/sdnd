@@ -2,7 +2,7 @@ Divine magic is channeled from the gods or similar otherworldly patrons, planes,
 
 ### battle caster
 
-If you prominently display your holy symbol--such as as a pendant on your chest or as an engraving on your shield--you do not need a [[Cast#verbal and somatic components|free hand]] to cast spells.  If you have a bludgeoning weapon in one hand, you can use it to deliver touch spells.
+If you prominently display your holy symbol--such as on a pendant on your chest or as an engraving on your shield--you do not need a [[Cast#verbal and somatic components|free hand]] to cast spells.  If you have a bludgeoning weapon in one hand, you can use it to deliver touch spells.
 
 ### mishap
 
@@ -14,10 +14,10 @@ Practically, this maps to a day spent and the loss of a certain amount of wealth
 
 | Spell Tier | Cost (gp) |
 | ---------- | --------- |
-| 1          | 5         |
+| 1          | 10        |
 | 2          | 20        |
 | 3          | 40        |
-| 4          | 90        |
-| 5          | 150       |
+| 4          | 80        |
+| 5          | 160       |
 
 You cannot [[spells known|replace a spell]] with another one while it is inaccessible.

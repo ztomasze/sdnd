@@ -35,11 +35,13 @@ relaxation, recuperation
 
 
 **Worship**
-for divine casters
+for [[divine]] casters
 Performing Sacred Rites
 
 **Contemplation**
-for nature casters
+for [[primal]] casters
+commune with spell source
+
 
 **Learning / Training**
 Gain new skills? How about just get XP more reliably than carousing
