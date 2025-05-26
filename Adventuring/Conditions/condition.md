@@ -64,11 +64,21 @@ Like any condition, the GM may expand or tailor the details or effects of these 
 
 ---
 
-##### Fear
+> **Design: Base Conditions**  
+> Early editions of the source game didn't have clearly defined conditions. 3e added 38 well-defined condition states, but later editions cut that in in half (16 in 4e and 14 in 5e). SD&D aims to split the different: well-defined starting points, but still a lot of freedom to customize the details of any condition based on the current narrative and context.
 
-Scared (shaken)
-Frightened
-Terrified (panicked)
+
+impaired -> unconscious
+frightened -> terrified
+impeded -> restrained -> helpless (immobile)
+prone
+
+blinded
+deafened
+surprised (unaware)
+
+threatened
+
 ##### Diseased
 
 For a default "filth fever" kind of disease:
@@ -89,3 +99,14 @@ At the end of each round, make a hard CON save
 	- CS: End the poison
 - F: Take 1d4 CON damage
 	- CF: Take 4 CON damage
+
+Invisible
+Incorporeal/Insubstatial
+
+MAYBE
+anchored (immobilized)
+charmed, dominated (4e: can only take 1 action), fascinated/hypnotized
+deafened
+dead, dying, stable debilitated, drained
+slowed (either speed or number of actions)
+surprised

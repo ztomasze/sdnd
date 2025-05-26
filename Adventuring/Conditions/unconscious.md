@@ -1,3 +1,9 @@
+---
+aliases:
+  - knock out
+  - asleep
+  - incapacitated
+---
 
 > A [[condition]]
 
