@@ -24,6 +24,8 @@ At level 1, you start with a number of hit points equal to the max value of your
 
 You can permanently lose hp, so it is possible to have a lower hit point capacity than you started with.
 
+See also [[temporary hit points]].
+
 ### leveling up
 
 When you level up, determine your new HD pool from the following table:

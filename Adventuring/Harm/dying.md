@@ -44,4 +44,4 @@ You can spend an action to make an INT or WIS (Medicine) check to stabilize an a
 
 When you are stable, you are still at 0 hp and unconscious, but you are no longer dying.  
 
-Typically an hour's [[resting|rest]] means you will heal 1 hp and wake up again.
+Typically an hour's [[resting|rest]] means you will heal at least 1 hp and wake up again.

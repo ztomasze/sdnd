@@ -16,4 +16,6 @@ A wizard is the classic arcane spellcaster who spends their time pouring over an
 
 **Spellbook.** You prepare spells from those in your spellbook, which does not take up an equipment slot for you. You start with 6 spells of tier 1 in your spellbook. Each time you gain a level, you can add two more spells of a tier you can cast. 
 
-You can also add Arcane spells that you find to your spellbook. You can attempt to scribe one spell from a scroll per long rest. Make a spellcasting check as if casting the scroll. On a success, you instead scribe the spell into your spellbook.
+You can cast any [[ritual]] spell from your spellbook as a ritual even if you do not currently have the spell prepared.
+
+You can add Arcane spells that you find to your spellbook. You can attempt to scribe one spell from a scroll per long rest. First, you must identify the [[scroll]]. The scroll's spell must be on you class list and of a tier that you can cast. If so, make a spellcasting check DC 10 + spell tier. On a success, you scribe the spell into your spellbook.  On either a success or failure, the scroll is consumed.

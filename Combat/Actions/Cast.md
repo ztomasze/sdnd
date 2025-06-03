@@ -53,6 +53,12 @@ The DC to cast a spell is 10 + the spell’s tier:
 - **F:** Nothing happens and the spell is **exhausted**: You cannot cast that spell again until you complete a long rest.
 	- **CF:** You also suffer a **mishap**, as determined by your magic tradition.
 
+### sure cast
+
+A caster can choose to channel more magical power into a spell for greater control over its outcome but at the expense of burning the spell from their mind. 
+
+Instead of rolling, you can take 10 on your spellcasting roll. That spell is then **exhausted**.
+
 ### modifiers
 
 Some spells have a modifier that changes how they are cast:

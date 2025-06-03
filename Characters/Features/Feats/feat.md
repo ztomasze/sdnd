@@ -24,6 +24,9 @@ There are some limitations on the feats you can take:
 | Feat                      | Max            | Class required               | Prerequisites             |
 | ------------------------- | -------------- | ---------------------------- | ------------------------- |
 | [[Armor Training]]        | 3              | Any                          | None                      |
+| [[Brew Potion]]           | 1              | spellcaster                  | Level 3+                  |
+| [[Craft Wand]]            | 1              | spellcaster                  | Level 4+                  |
+| [[Craft Wondrous Item]]   | 1              | spellcaster                  | Level 4+                  |
 | [[Extra Cantrips]]        | 1              | spellcaster                  | None                      |
 | [[Extra Skill]]           | 3              | Any                          | None                      |
 | [[Extra Spell]]           | 1 per tier (5) | spellcaster                  | None                      |
@@ -37,7 +40,8 @@ There are some limitations on the feats you can take:
 | [[Improved Spellcasting]] | 5              | spellcaster                  | None                      |
 | [[Magical Dabbler]]       | 1              | Any                          | None                      |
 | [[Magic Specialization]]  | 1              | spellcaster                  | None                      |
-| [[Subtle Spellcasting]]         | 1              | spellcaster                  | None                      |
+| [[Scribe Scroll]]         | 1              | spellcaster                  | Level 2+                  |
+| [[Subtle Spellcasting]]   | 1              | spellcaster                  | None                      |
 | [[Unarmored]]             | 1              | [[fighter]] / [[specialist]] | None                      |
 | [[Weapon Mastery]]        | 5              | [[fighter]]                  | Talent: [[weapon master]] |
 | [[Weapon Training]]       | 3              | Any                          | None                      |

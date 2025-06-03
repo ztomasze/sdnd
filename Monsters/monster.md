@@ -59,6 +59,10 @@ grapple: As melee.  On hit, starts a grapple. If any damage is listed, deals tha
 
 Three lines, always there for consistency
 
+
+Constructs, undead, and elementals are generally immune to poison or disease given their lack of normal metabolism.  Oozes, plants, celestial, and fiends are also often immune or resistant (save with advantage) to the diseases that affect humanoids.
+
+
 ##### special
 
 special defense or capability.  Detailed in description.
@@ -82,10 +86,9 @@ If spellcaster, then make an Easy (DC7) check to cast with no mishap.
 **Saves**
 
 * Hard check (DC15)
-* +1 for every 2 (even) HD
 * Fort: +X if HD+X (up to +4)
 * Ref: +2 if speed is faster than Normal; -2 Ref if slower than normal
-* Will: +2 Will if human-level intelligence or higher. +2 Will if have spell-like abilities; -2 if animal intelligence
+* Will: +2 Will if human-level intelligence or higher (11+). +2 Will if have spell-like abilities; -2 if animal intelligence (2-)
 
 ### example
 

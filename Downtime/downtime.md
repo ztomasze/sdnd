@@ -16,6 +16,7 @@ While most downtime activities can be pursued individually, some are group activ
 | Activity         | Description                                    | Days | Cost                    |
 | ---------------- | ---------------------------------------------- | ---- | ----------------------- |
 | [[carouse]]      | Convert gold to XP through raucous celebration | 1+   | 15+ gp per participant  |
+| [[craft item]]   | Create a mundane or magical item               | 1+   | Varies                  |
 | [[gain a level]] | Spend XP to increase one class level.          | 1    | (10 x current level) XP |
 | [[recover luck]] | Recover your expended luck points.             | 1    | 1 XP or 10 gp           |
 

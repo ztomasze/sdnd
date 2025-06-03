@@ -1,6 +1,6 @@
 > Part of [[boons and banes]]
 
-A [[boon]] represents a creature having a momentary reprieve or opportunity in combat to look around, seize an opening, reposition a shield, get better footing, etc.
+A **boon** represents a creature having a momentary reprieve or opportunity in combat to look around, seize an opening, reposition a shield, get better footing, etc.
 
 When a creature has a boon:
 

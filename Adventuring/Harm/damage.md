@@ -10,16 +10,17 @@ Damage can have a type.  This is an open set of types that includes:
 * **magic** damage from non-elemental damaging spells or enchanted weapons
 * **radiant** damage channelled from the righteous powers of heaven
 * **necrotic** damage channelled from the dark forces of death and hell
-* **thunder** damage from thunderous effects or explosions
+* **sonic** damage, usually from thunderous effects or explosions but also from high-pitched whines
 * **silver**, **adamantine**, or other exotic materials based on the weapon used
 
 ### type effects
 
-Some damage types might always have an given quality or side effect.  Examples:
+Some damage types always have a given quality or side effect.  Examples:
 
 * **Fire** damage always ignites very flammable materials, such as oil or tinder.  (Igniting combustible materials like paper or clothing might take more than an [[instant|instantaneous]] fire damage effect.)
-* **Necrotic** damage does not harm non-living creatures (undead and constructs)
-* **Thunder** damage is negated in an area of magical silence.
+* **Necrotic** damage does not harm undead (immune)
+* **Radiant** damage does not harm celestials (immune)
+* **Sonic** damage is negated in an area of magical silence.
 
 ### resistance, immunity, and vulnerability
 

@@ -26,7 +26,7 @@ Recommended reading order:
 ### Characters
 ##### Stats
 * [[abilities]] - including [[intelligence]] effects
-* [[hit points]]
+* [[hit points]] - including [[temporary hit points]]
 * [[mastery]]
 * [[proficiency]]
 * [[luck points]]
@@ -73,7 +73,9 @@ Recommended reading order:
 * hiding
 * invisibility
 ##### Hazards
+* [[disease]]
 * [[falling]]
+* [[poison]]
 
 ### Combat
 

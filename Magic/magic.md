@@ -25,4 +25,7 @@ Spellcasters [[Cast|cast]] the [[spell|spells]] that they [[spells known|know]].
 ### illusions
 
 ...
+in a world a magic, it is not uncommon for walls, flames, and creatures to be summoned in battle!  So there is no reason to automatically suspect that some appearance is illusory.
+
+search
 
